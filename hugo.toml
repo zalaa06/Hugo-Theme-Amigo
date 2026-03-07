@@ -77,7 +77,7 @@ theme = 'Amigo'
   giscusLoading = "lazy"
 
   # 3. Twikoo 评论（后端 envId：腾讯云环境填 envId；Vercel/自建填地址）
-  twikooEnvId = ""
+  twikooEnvId = "pengyouquan.netlify.app"
   twikooLang = "zh-CN"
   
   # ---------------------------------------------------------------------------------------
