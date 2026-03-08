@@ -1,6 +1,6 @@
 baseURL = 'https://example.com'
 languageCode = 'zh-cn'
-title = '我的朋友圈'
+title = '俏脸'
 theme = 'Amigo'
 
 [permalinks]
